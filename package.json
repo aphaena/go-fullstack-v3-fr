@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^13.0.1"
+    "axios": "^1.4.0",
+    "http-server": "^13.0.1",
+    "vue-router": "^4.2.2"
   }
 }
